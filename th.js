@@ -1,0 +1,1 @@
+th={toHex:(n)=>{return(parseInt(n).toString(16))},toDec:(n)=>{return(parseInt(n,16).toString(10))}}
