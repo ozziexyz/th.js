@@ -1,5 +1,5 @@
 # th.js
-tiny hexadecimal/decimal conversion library
+tiny (99 byte) hexadecimal/decimal conversion library
 
 add with `<script src='th.js'>`
 
@@ -8,3 +8,5 @@ add with `<script src='th.js'>`
 
 ## convert hexadecimal to decimal
 `th.toDec(YOURNUM)`
+
+This was originally a lot longer and bigger (like 189 bytes), but then it stopped working. I don't care what anyone says ED jokes are hilarious.
